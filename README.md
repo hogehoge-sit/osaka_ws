@@ -3,5 +3,5 @@
 `.ipynb`をGoogle Colabratoryで実行するためにはURLの”https://github.com” を ”https://colab.research.google.com/github” に変換する。
 ## C++の実行手順<br>
 `$ g++ -o sample sample.cpp`<br>
-`$ ./sample`
+`$ ./sample`<br>
 sampleは任意の名前で、cppファイルと同じじゃなくてもよい
